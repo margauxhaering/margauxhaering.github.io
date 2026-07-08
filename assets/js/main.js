@@ -190,7 +190,7 @@ const events = [
   { ev: 'Master', start: '09/2018', end: '06/2020' },
   { ev: 'Engineer', start: '08/2020', end: '09/2021' },
   { ev: 'PhD', start: '09/2021', end: '10/2024' },
-  { ev: 'Postdoc', start: '01/2025', end: '08/2026' }
+  { ev: 'Engineer', start: '01/2025', end: '08/2026' }
 ];
 
 let width;
